@@ -1,0 +1,13 @@
+{
+  "name": "semaine11-akieni-journalisation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Serveur Express avec journalisation asynchrone des requêtes",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
